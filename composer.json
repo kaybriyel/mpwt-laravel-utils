@@ -1,0 +1,21 @@
+{
+    "name": "mpwt/utils",
+    "description": "MPWT Standard Utilities",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MPWT\\Utils\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Kay Briyel"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
